@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "fr.rolenametag.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["LivingEntityRendererMixin", "EntityRendererMixin", "TextDisplayEntityMixin", "TextDisplayRefresher"],
+  "injectors": { "defaultRequire": 1 }
+}
